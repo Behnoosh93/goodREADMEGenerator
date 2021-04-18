@@ -1,6 +1,6 @@
 
 
- # homework100
+ # 09 homework README.md
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
@@ -26,7 +26,7 @@ _______________________
 
 ## Project Description 
 
-fnvnfdkvmfd
+this application will accept all information from user and will populate a reademe.md
 _______________________
 
 
@@ -34,7 +34,7 @@ _____________________________
 
 ## Installation Instructions 
 
-hbjkdndkfmv
+json package and npm i 
 _______________________
 
 
@@ -42,7 +42,7 @@ ____________________
 
 ## Usage Information 
 
-cdksjnvfkdm
+application will run from command line 
 _______________________
 
 
@@ -50,7 +50,7 @@ __________________________
 
 ## Contribution Guidelines 
 
-fhvnfkdmv
+added all neccessary package and develop the code
 _______________________
 
 
@@ -58,7 +58,7 @@ _______________________
 
 ## Testing Instructions 
 
-fjknfkdm
+test node index.js
 _______________________
 
 
@@ -68,6 +68,6 @@ ______________
 
 If you looking for more information you can contact to me by email  
 
-[gmail ](https://mail.google.com/behnoosh.mahmoodi@gmail.com)
+[gmail ](https://mail.google.com/behnoosh.mahmmodi@gmail.com )
 
 [Github Account](https://www.Github.com/behnoosh93)
