@@ -1,6 +1,6 @@
 
 
- # 09 homework README.md
+ # homework 09 README.md
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
 
@@ -26,7 +26,7 @@ _______________________
 
 ## Project Description 
 
-this application will accept all information from user and will populate a reademe.md
+this application will accept user information and populate a readme.md 
 _______________________
 
 
@@ -34,7 +34,7 @@ _____________________________
 
 ## Installation Instructions 
 
-json package and npm i 
+json package , npm i
 _______________________
 
 
@@ -50,7 +50,7 @@ __________________________
 
 ## Contribution Guidelines 
 
-added all neccessary package and develop the code
+added all neccessary node.js package and i did develpe the code.
 _______________________
 
 
@@ -58,7 +58,7 @@ _______________________
 
 ## Testing Instructions 
 
-test node index.js
+test with node index.js
 _______________________
 
 
@@ -68,6 +68,6 @@ ______________
 
 If you looking for more information you can contact to me by email  
 
-[gmail ](https://mail.google.com/behnoosh.mahmmodi@gmail.com )
+[gmail ](https://mail.google.com/behnoosh.mahmoodi@gmail.com )
 
 [Github Account](https://www.Github.com/behnoosh93)
